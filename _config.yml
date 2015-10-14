@@ -1,0 +1,11 @@
+# Site settings
+title: "Brass Pipe Dreams"
+email: "BrassPipeDreams@gmail.com"
+description: "An indie game company with a focus on open source, so everyone gets a chance to play."
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://brasspipedreams.org/" # the base hostname & protocol for your site
+twitter_username: "BrassPipeDreams"
+github_username: "BrassPipeDreams"
+
+# Build settings
+markdown: kramdown
